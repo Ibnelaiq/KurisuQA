@@ -51,7 +51,7 @@ This dataset was created by Ahmed Ali and is based on the Steins Gate visual nov
 
 ## License
 
-This dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International License]("https://creativecommons.org/licenses/by-nc/4.0/"). You are free to use and distribute the dataset for any non-commercial purpose, provided that you give credit to the original source.
+MIT
 
 ### Contributions
 
